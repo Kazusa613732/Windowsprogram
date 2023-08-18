@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <Windows.h>
 #include <process.h>
+#include <time.h>
 
 UINT __stdcall staff(PVOID lp){
 
